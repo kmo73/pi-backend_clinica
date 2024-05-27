@@ -19,7 +19,7 @@
 
 > ✅ Para el Front-End utilicé HTML, CSS y JavaScript Vanilla para generar una vista acotada, minimalista y simple que permita entender rápidamente las funciones de la API RESTful.
 
-**Dejo los datos de acceso para el Login:**
+**Datos de acceso para el Login:**
 1. Admin:
     - email: admin@mail.com
     - pass: admin
